@@ -1,0 +1,32 @@
+{
+    "name": "smurf_imgs",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v0.18.7",
+        "tag": "v0.18.7",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/485b713b886975e81e1f3318e2324e3b32f20dfd",
+        "target": "2.0.53",
+        "pxt": "6.1.22",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "assetPack": "true"
+}
